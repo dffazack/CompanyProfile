@@ -149,7 +149,7 @@
     </section>
 
     <section class="py-20 rounded-x2 shadow-md ">
-      <h1 class="text-2xl"> # FOLLOW TIKTOK KAMI #</h1>
+      <h1 class=""> # FOLLOW TIKTOK KAMI #</h1>
     <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@acehobbytown" data-unique-id="acehobbytown" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@acehobbytown?refer=creator_embed">@acehobbytown</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
     </section>
 
